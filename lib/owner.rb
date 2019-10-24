@@ -40,7 +40,7 @@ class Owner
     Dog.new(name,self)
   end
   
-  def wal_dog(name)
-    Cat.
+  def wal_dog
+    Dog.mood="happy"
   end
 end
