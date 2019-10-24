@@ -41,6 +41,6 @@ class Owner
   end
   
   def wal_dogs
-    Dog.each{|c| c.mood =="happy}"
+    Dog.each{|c| c.mood =="happy"}
   end
 end
